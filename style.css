@@ -1,0 +1,41 @@
+header {
+    color: #eae7b1; 
+    background-color: #3c6255;
+    text-align: center;
+    font-family: 'Lucida Sans';
+    font-size: 20px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:visited {
+    color: #eae7b1;
+}
+
+a:hover {
+    color: #61876e;
+}
+
+body {
+    color: #eae7b1; 
+    background-color: #3c6255;
+    font-family: 'Lucida Sans';
+    text-align: center;
+    width: 40%;
+    transform: translateX(+75%);
+}
+
+#title1 {
+    font-size: 75px;
+    font-weight: bold;
+    font-family: 'Lucida Sans';
+    margin-top: 30%;
+
+}
+#title1:hover {
+    transition: 0.3s;
+    transform: scale(1.5);
+}
+
